@@ -2,6 +2,7 @@
 
 int main()
 {
+	LCD.write("Ciao Mondo");
 	serial.write(1);
 	plot("Grafic", x);
 	while(1)
