@@ -1,0 +1,4 @@
+ISR()
+{
+	PIN_LED_WRITE(^PIN_LED_READ());
+}
