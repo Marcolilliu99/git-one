@@ -2,7 +2,11 @@
 
 int main()
 {
+<<<<<<< HEAD
 	serial.write(1);
+=======
+	plot("Grafic", x);
+>>>>>>> GUI_Grafico
 	while(1)
 	{
 
