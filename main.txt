@@ -2,6 +2,7 @@
 
 int main()
 {
+	plot("Grafic", x);
 	while(1)
 	{
 
